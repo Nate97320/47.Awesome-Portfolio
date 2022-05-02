@@ -1,6 +1,6 @@
 # Personal Portfolio
 
-web3-nate.com
+https://www.web3-nate.com
 
 Created by React, Tailwind and Next.js 
 
